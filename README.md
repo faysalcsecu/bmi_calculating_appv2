@@ -23,7 +23,7 @@ A **Flutter-based** mobile application that allows users to calculate their **Bo
 - 🌙 **Smooth User Experience**
 
 # 🚀 **Live Demo**
-🔗 [**Click Here to Try the Live Demo**](https://faysalcsecu.github.io/Flutter_BMI_Calculating_App/)
+🔗 [**Click Here to Try the Live Demo**](https://faysalcsecu.github.io/bmi_calculating_appv2/)
 
 # 🛠️ **Installation**
 
